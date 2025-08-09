@@ -1,1 +1,1 @@
-primt("heelo"
+primt("heelo")
